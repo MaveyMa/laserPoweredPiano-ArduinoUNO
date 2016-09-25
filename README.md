@@ -10,3 +10,5 @@ digital audio workstation (FL Studio, with midi port emulator LoopBe1)
 Math Tutor
 
 Project Protocol Details: https://docs.google.com/document/d/1RsGALm5_XDASoWFm7gCO7596IDS5XgOA8yce69Ohz7g/edit?usp=sharing
+
+Quick Performance Demo: https://www.youtube.com/watch?v=9ocy5Ad8kn8 
