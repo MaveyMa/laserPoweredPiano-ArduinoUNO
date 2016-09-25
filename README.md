@@ -1,5 +1,5 @@
 ### Arduino UNO Laser Piano
-Physics of Computing Fall 2015 | Mario Martinez and Mavey ma
+Physics of Computing Fall 2015 | Mario Martinez and Mavey Ma
 * Constructed a laser-powered piano where different notes can intuitively be played by obstructing the laser beam at
 various marked distances
 * Utilized ultrasonic sensor readings to determine distance to the user’s hand, which was then mapped to a note played
